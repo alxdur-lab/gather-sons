@@ -9,10 +9,11 @@ libres de droit ou créés par nous. Aucun document interne.
 
 1. Glisser le fichier sur la page « Upload files » du dépôt, puis « Commit changes ».
 2. Adresse à poser dans Gather :
-   `https://cdn.jsdelivr.net/gh/alxdur-lab/gather-sons@main/<nom-du-fichier>`
+   `https://raw.githubusercontent.com/alxdur-lab/gather-sons/main/<nom-du-fichier>`
 
 Noms sans espaces ni accents (`levels.mp3`). Pour remplacer un son, lui donner un nouveau nom :
-jsDelivr garde l'ancienne version en cache.
+GitHub garde l'ancienne version en cache quelques minutes. Maximum 25 Mo par fichier
+téléversé par la page web.
 
 ## Crédits
 
